@@ -5,6 +5,7 @@
   "keyword": "vue component",
   "license": "MIT",
   "author": "tehe",
+  "main": "lib/teheVue.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
