@@ -28,8 +28,9 @@ module.exports = defineConfig({
       });
   },
   css: {
-    extract: true,
+    extract: false,
   },
+  parallel: false,
   lintOnSave: false,
   productionSourceMap: false,
   devServer: {
