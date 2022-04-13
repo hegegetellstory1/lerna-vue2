@@ -5,7 +5,7 @@ import * as add from './src/add.js';
 import * as sub from './src/sub.js';
 
 
-export default {
+export {
   StringUtil,
   add,
   sub,
