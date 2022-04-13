@@ -32,7 +32,7 @@ const commonPlugins = [
 ];
 const external = ['vue'];
 const baseConfig = {
-  input: 'index.js',
+  input: 'main.js',
  
     // 打包全部
 
